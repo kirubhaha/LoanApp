@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Credit Sure Capital",
+    "slug": "credit-Sure-capital",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "permissions": [
+        "INTERNET"
+      ]
+    },
+    "web": {
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyB89vj5-DekpLYIPUnSrO8m3811UQP5PCI",
+          "authDomain": "loanpaymentapp.firebaseapp.com",
+          "projectId": "loanpaymentapp",
+          "storageBucket": "loanpaymentapp.appspot.com",
+          "messagingSenderId": "479638148561",
+          "appId": "1:479638148561:web:321e1ae2d1f53c7616bcf0",
+          "measurementId": "G-DVLCG6K9TX"
+        }
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3a00850a-22a6-47d7-8bb6-79d5495d35dc"
+      }
+    }
+  }
+}
